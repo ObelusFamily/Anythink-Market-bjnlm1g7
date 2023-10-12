@@ -39,7 +39,7 @@ return [
             'driver' => 'mongodb',
               'dsn' => env('MONGODB_URI'),
             'database' => 'sample_mflix',
-            ],
+            ], //
 
         'sqlite' => [
             'driver' => 'sqlite',
