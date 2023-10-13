@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Navigate to your application directory
-cd /var/www/htdoc
+# cd /var/www/htdoc
 
 # displays the current path, for debugging
 # pwd
